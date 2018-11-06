@@ -1,6 +1,4 @@
 module.exports = {
-  MISSING_ID: {
-    name: 'MISSING_ID',
-    message: 'The ID header must be passed in',
-  },
+  MISSING_ID: 'MISSING_ID',
+  GET_INFO_ERR: 'GET_INFO_ERR',
 };
